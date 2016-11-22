@@ -1848,6 +1848,7 @@ input[type="button"],
   height: 100%;
   left: 0;
   padding: 4em;
+  padding-bottom: 6em;
   position: fixed;
   text-align: right;
   top: 0;
